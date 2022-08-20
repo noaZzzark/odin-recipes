@@ -1,0 +1,31 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ;
+}
+
+.index-h1 {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+li {
+    font-size: 22px;
+}
+
+.pizza-h1 {
+    background-color: red;
+    color: white;
+}
+
+.smoothie-h1 {
+    background-color: pink;
+    color: white;
+}
+
+.potato-h1 {
+    background-color: rgb(218, 164, 64);
+    color: white;
+}
